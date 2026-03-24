@@ -10,3 +10,4 @@
 http://localhost:3000/dashboard.html
 http://localhost:3000/dashboard.html
 loveable https://github.com/lidiy26/vitalsedge-ai-9c43b057.git
+https://project-pal-uploader.lovable.app/
