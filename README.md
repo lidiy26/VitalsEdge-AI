@@ -9,3 +9,4 @@
 5. http://localhost:8000/api/docs
 http://localhost:3000/dashboard.html
 http://localhost:3000/dashboard.html
+loveable https://github.com/lidiy26/vitalsedge-ai-9c43b057.git
