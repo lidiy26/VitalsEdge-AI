@@ -40,6 +40,8 @@ Uygulamanın kullanılabilirliğini ve AI çıktı kalitesini ölçmek için 5 k
 Anket Formu: [https://forms.gle/sDetPo7EbZn1xXmYA]
 
 Canlı Demo: [https://project-pal-uploader.lovable.app]
+
+Video Linki:[https://www.loom.com/share/588ea48aa6de45d1873586d508047e3a]
 1. python -m venv venv
 2. venv\Scripts\activate
 3. pip install -r requirements.txt
