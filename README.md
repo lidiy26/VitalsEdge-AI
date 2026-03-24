@@ -23,7 +23,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. Depoyu Klonlayın
 Bash
-git clone https://github.com/lidi26/VitalsEdge.git
+git clone https://github.com/lidiy26/VitalsEdge.git
 cd VitalsEdge
 2. Gerekli Kütüphaneleri Kurun
 Bash
